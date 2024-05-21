@@ -1,6 +1,6 @@
-# plasmic-action
+# yurekai-builder-action
 
-This repository contains a GitHub Action that is used to sync and build Plasmic projects.
+This repository contains a GitHub Action that is used to sync and build Builder YurekAI projects.
 
 ## Publishing
 
